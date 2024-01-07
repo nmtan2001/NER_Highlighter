@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Text grabber",
+    "description": "Crawl text from the website The Guardian",
+    "version": "1.0.0",
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "http://127.0.0.1:8000",
+        "scripting"
+    ]
+}
