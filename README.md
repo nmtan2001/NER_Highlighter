@@ -1,4 +1,4 @@
-# NER_Highlighter extension for The Guardan
+# NER Highlighter extension for The Guardan
 #### Video Demo and Walkthrough: [Link](https://drive.google.com/file/d/1Gh8qJB390toqCRl9i7FI9p8Wl8rduNCn/view)
 ## Description: 
 A server-side Chrome extension that highlights the entities (*Person, Location, Organization*) on the e-newspaper [The Guardian](https://www.theguardian.com/) using Machine Learning. The frontend was built using ***Javascript, HTML and CSS***. The backend was powered by ***Django***. The choice for JS is based on *browser compability*, *web technology intergration* and *Chrome Extension APIs*. The frontend was intentionally designed with simplicity in mind, as the primary focus of the implementation was to showcase the underlying logic. Django was selected for the backend due to its compatibility with the ML model.
