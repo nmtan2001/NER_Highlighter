@@ -12,6 +12,7 @@ I encountered significant challenges while working on this task due to my limite
 
 ## Install project
 Clone the whole project through Github and running in Visual Studio Code or any other IDE. 
+run pip install -r requirements.txt
 #### Run backend server: 
 To initiate the backend server, start by changing the directory to the "mysite" folder. Subsequently, run the server using the following commands: `python3 manage.py runserver`
 #### Load extension to browser:
